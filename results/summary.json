@@ -1,0 +1,702 @@
+{
+  "n": {
+    "established": {
+      "sampled": 1200,
+      "readable": 1200
+    },
+    "new": {
+      "sampled": 1000,
+      "readable": 1000
+    }
+  },
+  "share": {
+    "established": {
+      "Claude Code": 18.3,
+      "Claude Code (CLAUDE.md)": 15.9,
+      "AGENTS.md": 20.1,
+      "Cursor": 1.4,
+      "Copilot": 5.4,
+      "Gemini CLI": 1.4,
+      "Windsurf": 0.1,
+      "Cline": 0.1,
+      "any agent file": 30.2,
+      "_counts": {
+        "Claude Code": 220,
+        "Claude Code (CLAUDE.md)": 191,
+        "AGENTS.md": 241,
+        "Cursor": 17,
+        "Copilot": 65,
+        "Gemini CLI": 17,
+        "Windsurf": 1,
+        "Cline": 1,
+        "any agent file": 363
+      }
+    },
+    "new": {
+      "Claude Code": 19.5,
+      "Claude Code (CLAUDE.md)": 16.4,
+      "AGENTS.md": 19.7,
+      "Cursor": 1.5,
+      "Copilot": 1.0,
+      "Gemini CLI": 0.8,
+      "Windsurf": 0.2,
+      "Cline": 0.1,
+      "any agent file": 30.0,
+      "_counts": {
+        "Claude Code": 195,
+        "Claude Code (CLAUDE.md)": 164,
+        "AGENTS.md": 197,
+        "Cursor": 15,
+        "Copilot": 10,
+        "Gemini CLI": 8,
+        "Windsurf": 2,
+        "Cline": 1,
+        "any agent file": 300
+      }
+    }
+  },
+  "combos": {
+    "established": [
+      [
+        "none",
+        837
+      ],
+      [
+        "AGENTS.md",
+        99
+      ],
+      [
+        "Claude Code+AGENTS.md",
+        98
+      ],
+      [
+        "Claude Code",
+        74
+      ],
+      [
+        "Copilot",
+        31
+      ],
+      [
+        "Claude Code+AGENTS.md+Copilot",
+        18
+      ],
+      [
+        "Claude Code+AGENTS.md+Gemini CLI",
+        9
+      ],
+      [
+        "Claude Code+AGENTS.md+Cursor",
+        6
+      ],
+      [
+        "Cursor",
+        6
+      ],
+      [
+        "AGENTS.md+Copilot",
+        5
+      ],
+      [
+        "Claude Code+Copilot",
+        5
+      ],
+      [
+        "Claude Code+AGENTS.md+Copilot+Gemini CLI",
+        3
+      ]
+    ],
+    "new": [
+      [
+        "none",
+        700
+      ],
+      [
+        "AGENTS.md",
+        93
+      ],
+      [
+        "Claude Code+AGENTS.md",
+        92
+      ],
+      [
+        "Claude Code",
+        88
+      ],
+      [
+        "Cursor",
+        7
+      ],
+      [
+        "Claude Code+AGENTS.md+Gemini CLI",
+        3
+      ],
+      [
+        "AGENTS.md+Copilot",
+        2
+      ],
+      [
+        "Claude Code+Cursor",
+        2
+      ],
+      [
+        "Claude Code+AGENTS.md+Copilot",
+        2
+      ],
+      [
+        "Claude Code+Gemini CLI",
+        1
+      ],
+      [
+        "Claude Code+AGENTS.md+Cursor",
+        1
+      ],
+      [
+        "Claude Code+AGENTS.md+Cursor+Copilot+Gemini CLI",
+        1
+      ]
+    ]
+  },
+  "claude_md_kind": {
+    "established": {
+      "short pointer to AGENTS.md (import or prose)": 53,
+      "full file (400+ bytes)": 93,
+      "symlink to AGENTS.md": 29,
+      "symlink to other file": 2,
+      "short file, other content": 3
+    },
+    "new": {
+      "full file (400+ bytes)": 107,
+      "short pointer to AGENTS.md (import or prose)": 30,
+      "short file, other content": 3,
+      "symlink to AGENTS.md": 21,
+      "symlink to other file": 1
+    }
+  },
+  "dot_claude_contents": {
+    "established": [
+      [
+        "skills",
+        89
+      ],
+      [
+        "settings.json",
+        42
+      ],
+      [
+        "agents",
+        20
+      ],
+      [
+        "commands",
+        18
+      ],
+      [
+        "rules",
+        14
+      ],
+      [
+        "CLAUDE.md",
+        12
+      ],
+      [
+        "hooks",
+        9
+      ],
+      [
+        "settings.local.json",
+        6
+      ],
+      [
+        ".gitignore",
+        5
+      ],
+      [
+        "launch.json",
+        4
+      ],
+      [
+        "scripts",
+        2
+      ],
+      [
+        "mcp.json",
+        2
+      ]
+    ],
+    "new": [
+      [
+        "skills",
+        62
+      ],
+      [
+        "settings.json",
+        29
+      ],
+      [
+        "commands",
+        16
+      ],
+      [
+        "agents",
+        10
+      ],
+      [
+        "launch.json",
+        9
+      ],
+      [
+        "hooks",
+        7
+      ],
+      [
+        "settings.local.json",
+        7
+      ],
+      [
+        "rules",
+        5
+      ],
+      [
+        "CLAUDE.md",
+        2
+      ],
+      [
+        "beads-workflow-injection.md",
+        1
+      ],
+      [
+        "frontend-reviews-requirement.md",
+        1
+      ],
+      [
+        "frontend-supervisors.txt",
+        1
+      ]
+    ]
+  },
+  "by_language": {
+    "established": {
+      "Python": {
+        "n": 209,
+        "claude": 19.6,
+        "agents_md": 19.6
+      },
+      "TypeScript": {
+        "n": 179,
+        "claude": 35.2,
+        "agents_md": 35.8
+      },
+      "Go": {
+        "n": 109,
+        "claude": 22.0,
+        "agents_md": 21.1
+      },
+      "JavaScript": {
+        "n": 92,
+        "claude": 10.9,
+        "agents_md": 10.9
+      },
+      "C++": {
+        "n": 69,
+        "claude": 13.0,
+        "agents_md": 13.0
+      },
+      "Rust": {
+        "n": 65,
+        "claude": 26.2,
+        "agents_md": 29.2
+      },
+      "Java": {
+        "n": 65,
+        "claude": 16.9,
+        "agents_md": 29.2
+      },
+      "C": {
+        "n": 56,
+        "claude": 1.8,
+        "agents_md": 8.9
+      }
+    },
+    "new": {
+      "Python": {
+        "n": 296,
+        "claude": 14.9,
+        "agents_md": 14.2
+      },
+      "TypeScript": {
+        "n": 175,
+        "claude": 31.4,
+        "agents_md": 32.6
+      },
+      "JavaScript": {
+        "n": 75,
+        "claude": 13.3,
+        "agents_md": 20.0
+      },
+      "Rust": {
+        "n": 58,
+        "claude": 22.4,
+        "agents_md": 32.8
+      },
+      "Go": {
+        "n": 45,
+        "claude": 31.1,
+        "agents_md": 40.0
+      },
+      "HTML": {
+        "n": 43,
+        "claude": 7.0,
+        "agents_md": 2.3
+      },
+      "C++": {
+        "n": 30,
+        "claude": 10.0,
+        "agents_md": 13.3
+      }
+    }
+  },
+  "adoption_established": {
+    "Claude Code (CLAUDE.md)": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.08,
+      0.08,
+      0.25,
+      0.5,
+      1.0,
+      1.5,
+      1.83,
+      2.17,
+      3.08,
+      3.67,
+      5.08,
+      6.75,
+      8.92,
+      10.5,
+      11.83,
+      12.92,
+      13.75,
+      14.42,
+      15.0
+    ],
+    "AGENTS.md": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.25,
+      0.42,
+      0.42,
+      0.67,
+      1.58,
+      2.25,
+      3.25,
+      4.42,
+      5.5,
+      7.58,
+      9.33,
+      10.58,
+      11.75,
+      13.42,
+      15.75,
+      17.75,
+      20.0
+    ],
+    "Cursor (.cursor/rules)": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.08,
+      0.25,
+      0.33,
+      0.5,
+      0.67,
+      0.75,
+      0.83,
+      0.83,
+      0.83,
+      0.92,
+      0.92,
+      0.92,
+      1.0,
+      1.0,
+      1.08,
+      1.08,
+      1.08,
+      1.08,
+      1.42
+    ],
+    "Cursor (.cursorrules)": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Copilot": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.08,
+      0.25,
+      0.25,
+      0.92,
+      1.25,
+      1.5,
+      1.92,
+      2.0,
+      2.67,
+      3.08,
+      3.5,
+      3.58,
+      3.83,
+      4.17,
+      4.5,
+      4.75,
+      4.92
+    ],
+    "Gemini CLI": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.08,
+      0.08,
+      0.08,
+      0.08,
+      0.33,
+      0.33,
+      0.42,
+      0.42,
+      0.58,
+      0.58,
+      0.58,
+      0.67,
+      0.83,
+      0.92
+    ]
+  },
+  "months": [
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07",
+    "2026-08",
+    "2026-09"
+  ],
+  "claude_specific": {
+    "established": {
+      "k": 178,
+      "pct": 14.8,
+      "ci": [
+        12.9,
+        17.0
+      ]
+    },
+    "new": {
+      "k": 161,
+      "pct": 16.1,
+      "ci": [
+        14.0,
+        18.5
+      ]
+    }
+  },
+  "ci": {
+    "established": {
+      "Claude Code": [
+        16.2,
+        20.6
+      ],
+      "Claude Code (CLAUDE.md)": [
+        14.0,
+        18.1
+      ],
+      "AGENTS.md": [
+        17.9,
+        22.4
+      ],
+      "Cursor": [
+        0.9,
+        2.3
+      ],
+      "Copilot": [
+        4.3,
+        6.8
+      ],
+      "Gemini CLI": [
+        0.9,
+        2.3
+      ],
+      "Windsurf": [
+        0.0,
+        0.5
+      ],
+      "Cline": [
+        0.0,
+        0.5
+      ],
+      "any agent file": [
+        27.7,
+        32.9
+      ]
+    },
+    "new": {
+      "Claude Code": [
+        17.2,
+        22.1
+      ],
+      "Claude Code (CLAUDE.md)": [
+        14.2,
+        18.8
+      ],
+      "AGENTS.md": [
+        17.4,
+        22.3
+      ],
+      "Cursor": [
+        0.9,
+        2.5
+      ],
+      "Copilot": [
+        0.5,
+        1.8
+      ],
+      "Gemini CLI": [
+        0.4,
+        1.6
+      ],
+      "Windsurf": [
+        0.1,
+        0.7
+      ],
+      "Cline": [
+        0.0,
+        0.6
+      ],
+      "any agent file": [
+        27.2,
+        32.9
+      ]
+    }
+  }
+}

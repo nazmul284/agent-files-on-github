@@ -1,0 +1,2433 @@
+{
+ "0xPolygon/bor": {
+  "CLAUDE.md": "2026-01-22",
+  "AGENTS.md": "2026-05-18",
+  ".claude": "2026-03-09"
+ },
+ "1bananachicken/MaaNTE": {
+  "AGENTS.md": "2026-06-16",
+  ".claude": "2026-05-20"
+ },
+ "2dust/v2rayNG": {
+  "CLAUDE.md": "2026-08-29",
+  "AGENTS.md": "2026-08-29",
+  "GEMINI.md": "2026-08-29",
+  ".github/copilot-instructions.md": "2026-08-29"
+ },
+ "869413421/ai-moive-studio": {
+  "CLAUDE.md": "2025-11-10",
+  ".claude": "2025-11-06"
+ },
+ "AffPapa/neantik": {
+  "CLAUDE.md": "2026-08-03",
+  "AGENTS.md": "2026-08-03"
+ },
+ "Alisa0808/vox-director": {
+  "AGENTS.md": "2026-07-10"
+ },
+ "App-vNext/Polly": {
+  "AGENTS.md": "2026-03-13"
+ },
+ "AtalayaLabs/OxiCloud": {
+  "CLAUDE.md": "2025-03-17",
+  "AGENTS.md": "2026-06-19"
+ },
+ "AxonIQ/AxonFramework": {
+  "CLAUDE.md": "2026-02-16",
+  "AGENTS.md": "2026-02-16",
+  ".claude": "2026-02-16"
+ },
+ "CelestoAI/celesto": {
+  "CLAUDE.md": "2026-03-28",
+  "AGENTS.md": "2026-02-15",
+  ".claude": "2026-04-05"
+ },
+ "CherryHQ/cherry-studio-app": {
+  "CLAUDE.md": "2025-08-26",
+  "AGENTS.md": "2026-09-15",
+  ".claude": "2025-09-18"
+ },
+ "ColeMurray/background-agents": {
+  "CLAUDE.md": "2026-01-25",
+  "AGENTS.md": "2026-02-22",
+  ".claude": "2026-01-25"
+ },
+ "CookSleep/gpt_image_playground": {
+  "AGENTS.md": "2026-06-19"
+ },
+ "CrossPaste/crosspaste-desktop": {
+  "CLAUDE.md": "2025-07-01"
+ },
+ "DBraun/DawDreamer": {
+  "AGENTS.md": "2026-10-02"
+ },
+ "DanKE123abc/NoUnityCN": {
+  ".claude": "2026-06-28"
+ },
+ "David-Crty/databasement": {
+  "CLAUDE.md": "2025-11-14"
+ },
+ "DependencyTrack/dependency-track": {
+  "CLAUDE.md": "2026-02-27",
+  "AGENTS.md": "2026-02-27",
+  ".claude": "2026-08-18"
+ },
+ "Dicklesworthstone/beads_viewer": {
+  "AGENTS.md": "2025-11-26"
+ },
+ "DragonOS-Community/DragonOS": {
+  "AGENTS.md": "2025-12-18",
+  ".claude": "2026-02-11"
+ },
+ "Ehco1996/ehco": {
+  "CLAUDE.md": "2026-05-02",
+  "AGENTS.md": "2026-09-23"
+ },
+ "FlorianBruniaux/claude-code-ultimate-guide": {
+  "CLAUDE.md": "2026-01-15",
+  "AGENTS.md": "2026-05-22",
+  ".github/copilot-instructions.md": "2026-05-21",
+  ".claude": "2026-01-21"
+ },
+ "FoundatioFx/Foundatio": {
+  "AGENTS.md": "2025-12-14"
+ },
+ "Gaurav-Gosain/tuios": {
+  "AGENTS.md": "2025-11-27"
+ },
+ "GetStream/Vision-Agents": {
+  "CLAUDE.md": "2026-02-17",
+  ".cursor/rules": "2025-09-19",
+  ".claude": "2025-10-30"
+ },
+ "Heroic-Games-Launcher/HeroicGamesLauncher": {
+  "AGENTS.md": "2026-09-19",
+  ".github/copilot-instructions.md": "2026-02-27"
+ },
+ "HoshinoSuzumi/chronoframe": {
+  ".github/copilot-instructions.md": "2025-09-14"
+ },
+ "Hufe921/canvas-editor": {
+  "CLAUDE.md": "2026-02-05",
+  "AGENTS.md": "2026-01-21"
+ },
+ "InsightSoftwareConsortium/ITK": {
+  "CLAUDE.md": "2026-03-24",
+  "AGENTS.md": "2025-11-07"
+ },
+ "Jeric-X/SyncClipboard": {
+  "CLAUDE.md": "2026-06-13",
+  "AGENTS.md": "2026-06-27"
+ },
+ "K-Dense-AI/k-dense-byok": {
+  "AGENTS.md": "2026-05-05"
+ },
+ "Lapis0x0/obsidian-yolo": {
+  "CLAUDE.md": "2026-04-30",
+  "AGENTS.md": "2026-07-20"
+ },
+ "LavaMoat/LavaMoat": {
+  "AGENTS.md": "2025-11-07"
+ },
+ "Leonxlnx/taste-skill": {
+  ".github/copilot-instructions.md": "2026-03-20"
+ },
+ "LianjiaTech/retrofit-spring-boot-starter": {
+  "CLAUDE.md": "2026-05-30",
+  ".cursor/rules": "2026-09-10",
+  ".claude": "2026-05-30"
+ },
+ "LibChecker/LibChecker": {
+  "AGENTS.md": "2026-05-21",
+  ".github/copilot-instructions.md": "2025-08-20"
+ },
+ "Licoy/wordpress-theme-puock": {
+  "AGENTS.md": "2026-01-05"
+ },
+ "Lin-arm/GKD_subscription": {
+  "AGENTS.md": "2026-09-26",
+  ".claude": "2026-07-22"
+ },
+ "Lingyan000/fluxdo": {
+  "CLAUDE.md": "2026-02-01",
+  "GEMINI.md": "2026-02-01",
+  ".claude": "2026-07-14"
+ },
+ "MIC-DKFZ/nnUNet": {
+  "CLAUDE.md": "2026-09-22"
+ },
+ "MadAppGang/dingo": {
+  "CLAUDE.md": "2025-11-16",
+  ".claude": "2025-11-16"
+ },
+ "MaxMiksa/Auto-Company": {
+  "CLAUDE.md": "2025-08-26",
+  ".claude": "2025-07-01"
+ },
+ "MemeMeow-Studio/MemeMeow": {
+  ".claude": "2026-08-09"
+ },
+ "MoaidHathot/Dumpify": {
+  "AGENTS.md": "2026-02-19"
+ },
+ "MrGeDiao/shuorenhua": {
+  "CLAUDE.md": "2026-06-10",
+  "AGENTS.md": "2026-04-20"
+ },
+ "NVIDIA/cccl": {
+  "CLAUDE.md": "2026-03-18",
+  "AGENTS.md": "2025-09-02",
+  ".cursor/rules": "2025-07-11",
+  ".github/copilot-instructions.md": "2025-09-02",
+  ".claude": "2026-03-25"
+ },
+ "Nexus-Mods/Nexus-Mod-Manager": {
+  ".github/copilot-instructions.md": "2026-06-24"
+ },
+ "NirDiamant/Prompt_Engineering": {
+  "AGENTS.md": "2026-09-15"
+ },
+ "OHIF/Viewers": {
+  "AGENTS.md": "2026-05-13"
+ },
+ "OI-wiki/OI-wiki": {
+  "CLAUDE.md": "2025-07-28"
+ },
+ "OPCFoundation/UA-.NETStandard": {
+  ".github/copilot-instructions.md": "2025-11-01"
+ },
+ "OpenMind/OM1": {
+  ".github/copilot-instructions.md": "2026-02-19"
+ },
+ "PaperMC/Paper": {
+  "CLAUDE.md": "2026-08-09",
+  "AGENTS.md": "2026-08-09"
+ },
+ "PhilipK/BoilR": {
+  "CLAUDE.md": "2026-09-26",
+  ".claude": "2026-09-26"
+ },
+ "ProvableHQ/snarkVM": {
+  "AGENTS.md": "2026-02-19",
+  ".github/copilot-instructions.md": "2026-01-14",
+  ".claude": "2026-01-16"
+ },
+ "PyThaiNLP/pythainlp": {
+  "AGENTS.md": "2026-03-08",
+  ".github/copilot-instructions.md": "2026-01-14"
+ },
+ "QuipNetwork/xquad": {
+  "AGENTS.md": "2026-03-27"
+ },
+ "RT-Thread/rt-thread": {
+  "AGENTS.md": "2026-06-12",
+  ".github/copilot-instructions.md": "2025-08-21"
+ },
+ "RazorConsole/RazorConsole": {
+  ".github/copilot-instructions.md": "2025-10-02",
+  ".claude": "2026-05-06"
+ },
+ "Red5/red5-server": {
+  "CLAUDE.md": "2025-07-27",
+  "AGENTS.md": "2026-01-17",
+  "GEMINI.md": "2025-08-23"
+ },
+ "RoaringBitmap/roaring": {
+  "AGENTS.md": "2026-06-11"
+ },
+ "Runfusion/Fusion": {
+  "CLAUDE.md": "2026-06-21",
+  "AGENTS.md": "2026-03-27"
+ },
+ "RyanAlberts/best-of-Agent-Harnesses": {
+  "CLAUDE.md": "2026-05-05",
+  ".cursor/rules": "2026-03-08"
+ },
+ "SamurAIGPT/llm-wiki-agent": {
+  "CLAUDE.md": "2026-04-07",
+  "AGENTS.md": "2026-04-07",
+  "GEMINI.md": "2026-04-07",
+  ".claude": "2026-04-07"
+ },
+ "Sandakan/Nora": {
+  ".github/copilot-instructions.md": "2025-11-02"
+ },
+ "Sec-Link/Argus-Agentic-SOC-Platform": {
+  "AGENTS.md": "2026-09-29"
+ },
+ "ShisatoYano/AutonomousVehicleControlBeginnersGuide": {
+  "CLAUDE.md": "2026-08-24",
+  ".claude": "2026-09-30"
+ },
+ "SimonSchubert/Kai": {
+  "CLAUDE.md": "2026-03-07",
+  ".claude": "2026-02-01"
+ },
+ "Skyvern-AI/skyvern": {
+  "CLAUDE.md": "2025-09-25",
+  "AGENTS.md": "2025-05-29",
+  ".claude": "2026-02-21"
+ },
+ "SlugLab/CXLMemSim": {
+  "AGENTS.md": "2025-09-03"
+ },
+ "SoftEtherVPN/SoftEtherVPN": {
+  ".github/copilot-instructions.md": "2026-08-30"
+ },
+ "SonarSource/SonarJS": {
+  "CLAUDE.md": "2026-01-08",
+  ".claude": "2026-01-19"
+ },
+ "T8mars/comfyui-minimax-h3-audio-T8": {
+  "AGENTS.md": "2026-09-12"
+ },
+ "TNTcraftHIM/Piik": {
+  "AGENTS.md": "2026-08-18"
+ },
+ "TYPO3/typo3": {
+  "CLAUDE.md": "2026-08-23",
+  "AGENTS.md": "2026-08-23"
+ },
+ "Taiko2k/Tauon": {
+  "AGENTS.md": "2026-04-14"
+ },
+ "Tencent/libpag": {
+  ".claude": "2026-03-19"
+ },
+ "Tencent/teamai-cli": {
+  "CLAUDE.md": "2026-04-03",
+  "AGENTS.md": "2026-09-04"
+ },
+ "TheOdinProject/theodinproject": {
+  "CLAUDE.md": "2026-03-29",
+  "AGENTS.md": "2026-03-29"
+ },
+ "Twigpine/zero": {
+  "AGENTS.md": "2026-07-03"
+ },
+ "Ulauncher/Ulauncher": {
+  "CLAUDE.md": "2026-03-28",
+  "AGENTS.md": "2025-12-29"
+ },
+ "Unleash/unleash": {
+  "CLAUDE.md": "2026-02-16",
+  "AGENTS.md": "2026-02-16"
+ },
+ "VREMSoftwareDevelopment/WiFiAnalyzer": {
+  "AGENTS.md": "2025-12-25"
+ },
+ "VRSEN/agency-swarm": {
+  "CLAUDE.md": "2026-04-17",
+  "AGENTS.md": "2025-06-18",
+  ".cursor/rules": "2025-12-24",
+  ".claude": "2025-09-03"
+ },
+ "VibiumDev/vibium": {
+  "CLAUDE.md": "2025-12-15"
+ },
+ "Wirasm/prp": {
+  "CLAUDE.md": "2025-06-11",
+  "AGENTS.md": "2026-07-27",
+  ".claude": "2025-06-11"
+ },
+ "XRPLF/xrpl-dev-portal": {
+  ".claude": "2026-03-24"
+ },
+ "Yeachan-Heo/gajae-code": {
+  "AGENTS.md": "2026-05-26"
+ },
+ "ZSWatch/ZSWatch": {
+  ".github/copilot-instructions.md": "2026-02-10"
+ },
+ "ZeusLN/zeus": {
+  ".claude": "2026-07-06"
+ },
+ "aaif-goose/goose": {
+  "CLAUDE.md": "2026-05-05",
+  "AGENTS.md": "2025-09-05",
+  ".github/copilot-instructions.md": "2025-11-10"
+ },
+ "abi/screenshot-to-code": {
+  "CLAUDE.md": "2025-05-21",
+  "AGENTS.md": "2026-02-06",
+  ".claude": "2026-02-25"
+ },
+ "acmesh-official/acme.sh": {
+  ".github/copilot-instructions.md": "2026-03-01"
+ },
+ "actualbudget/actual": {
+  "CLAUDE.md": "2026-03-04",
+  "AGENTS.md": "2025-10-17",
+  ".cursor/rules": "2025-06-14",
+  ".claude": "2026-04-11"
+ },
+ "adriankarlen/textfox": {
+  "CLAUDE.md": "2026-06-02",
+  "AGENTS.md": "2026-06-02",
+  ".claude": "2026-06-02"
+ },
+ "aeon-toolkit/aeon": {
+  "AGENTS.md": "2026-02-08"
+ },
+ "agones-dev/agones": {
+  "AGENTS.md": "2026-06-19"
+ },
+ "aiXander/Realtime_PyAudio_FFT": {
+  "CLAUDE.md": "2026-05-04",
+  "AGENTS.md": "2026-09-29"
+ },
+ "alchemy-run/alchemy": {
+  "CLAUDE.md": "2026-01-12",
+  "AGENTS.md": "2025-11-12"
+ },
+ "alextselegidis/easyappointments": {
+  ".github/copilot-instructions.md": "2026-03-30"
+ },
+ "alibaba/arthas": {
+  "AGENTS.md": "2025-12-24"
+ },
+ "alpic-ai/skybridge": {
+  "CLAUDE.md": "2026-03-09",
+  "AGENTS.md": "2026-02-02",
+  ".claude": "2026-02-27"
+ },
+ "alumnium-hq/alumnium": {
+  "CLAUDE.md": "2025-10-25",
+  "AGENTS.md": "2026-04-01",
+  ".claude": "2025-10-03"
+ },
+ "analogjs/analog": {
+  "CLAUDE.md": "2026-07-14",
+  "AGENTS.md": "2026-01-26"
+ },
+ "apache/apisix": {
+  "AGENTS.md": "2026-05-31"
+ },
+ "apache/cloudstack": {
+  "AGENTS.md": "2026-07-13"
+ },
+ "apache/devlake": {
+  "AGENTS.md": "2025-12-25"
+ },
+ "apache/fesod": {
+  ".github/copilot-instructions.md": "2026-07-25"
+ },
+ "apache/hbase": {
+  "AGENTS.md": "2026-05-25"
+ },
+ "apache/maven": {
+  "AGENTS.md": "2026-07-07"
+ },
+ "apple/servicetalk": {
+  "AGENTS.md": "2026-09-23"
+ },
+ "appleboy/gin-jwt": {
+  "CLAUDE.md": "2025-12-28"
+ },
+ "appsmithorg/appsmith": {
+  ".cursor/rules": "2025-04-11"
+ },
+ "arc53/DocsGPT": {
+  "AGENTS.md": "2026-03-18"
+ },
+ "assistant-ui/assistant-ui": {
+  "AGENTS.md": "2026-02-28",
+  ".claude": "2025-08-12"
+ },
+ "aubepkg/aube": {
+  "CLAUDE.md": "2026-04-18",
+  "AGENTS.md": "2026-04-18",
+  "GEMINI.md": "2026-04-20",
+  ".claude": "2026-07-13"
+ },
+ "auth0/auth0-spa-js": {
+  "CLAUDE.md": "2026-07-23",
+  "AGENTS.md": "2026-02-02"
+ },
+ "awaescher/OllamaSharp": {
+  "AGENTS.md": "2026-02-27"
+ },
+ "axolotl-ai-cloud/axolotl": {
+  "CLAUDE.md": "2026-05-20",
+  "AGENTS.md": "2026-04-02"
+ },
+ "ayn2op/discordo": {
+  "AGENTS.md": "2026-07-23"
+ },
+ "bazel-contrib/buildtools": {
+  "AGENTS.md": "2026-09-15"
+ },
+ "bespokelabsai/nimble": {
+  "AGENTS.md": "2026-09-18"
+ },
+ "bezzad/Downloader": {
+  "CLAUDE.md": "2026-06-19",
+  ".claude": "2026-07-09"
+ },
+ "bluesky-social/atproto": {
+  "CLAUDE.md": "2026-05-26",
+  "AGENTS.md": "2026-08-20",
+  ".claude": "2026-03-05"
+ },
+ "brainix/pottery": {
+  ".github/copilot-instructions.md": "2026-01-03"
+ },
+ "brocoders/nestjs-boilerplate": {
+  "CLAUDE.md": "2026-05-16",
+  ".claude": "2026-05-16"
+ },
+ "builderz-labs/mission-control": {
+  "CLAUDE.md": "2026-03-13"
+ },
+ "c9s/bbgo": {
+  "CLAUDE.md": "2026-04-03",
+  ".claude": "2026-05-30"
+ },
+ "carloscuesta/gitmoji": {
+  "AGENTS.md": "2025-11-22"
+ },
+ "category-labs/monad": {
+  "CLAUDE.md": "2026-04-03",
+  ".claude": "2026-04-03"
+ },
+ "civitai/civitai": {
+  "CLAUDE.md": "2025-08-25",
+  ".claude": "2025-08-25"
+ },
+ "cjcliffe/CubicSDR": {
+  "AGENTS.md": "2026-07-24"
+ },
+ "cloudera/hue": {
+  ".cursor/rules": "2025-08-26"
+ },
+ "cncjs/cncjs": {
+  "CLAUDE.md": "2026-05-15",
+  ".claude": "2026-02-10"
+ },
+ "codelibs/fess": {
+  "CLAUDE.md": "2025-11-15"
+ },
+ "compiler-explorer/compiler-explorer": {
+  "AGENTS.md": "2026-06-02",
+  ".github/copilot-instructions.md": "2025-10-06",
+  ".claude": "2025-06-07"
+ },
+ "cpr1c/tools_ui_1c": {
+  "AGENTS.md": "2026-07-16"
+ },
+ "crewAIInc/crewAI": {
+  "AGENTS.md": "2026-06-17"
+ },
+ "crshdn/mission-control": {
+  ".claude": "2026-01-31"
+ },
+ "databuddy-analytics/Databuddy": {
+  "CLAUDE.md": "2026-04-03",
+  "AGENTS.md": "2026-01-28",
+  ".cursor/rules": "2025-07-27"
+ },
+ "date-fns/date-fns": {
+  "AGENTS.md": "2026-05-22"
+ },
+ "devcontainers/templates": {
+  "AGENTS.md": "2026-08-28"
+ },
+ "devlikeapro/waha": {
+  "CLAUDE.md": "2026-03-05",
+  "AGENTS.md": "2025-10-12"
+ },
+ "dmmulroy/anti-slop": {
+  "AGENTS.md": "2026-08-12"
+ },
+ "dotnet/AspNetCore.Docs": {
+  ".github/copilot-instructions.md": "2025-08-01"
+ },
+ "dotnet/core": {
+  ".github/copilot-instructions.md": "2025-08-19"
+ },
+ "dovecot/core": {
+  "AGENTS.md": "2025-11-20"
+ },
+ "drashland/drash": {
+  "CLAUDE.md": "2026-08-12",
+  ".claude": "2026-08-25"
+ },
+ "drl990114/MarkFlowy": {
+  "AGENTS.md": "2026-07-12"
+ },
+ "earendil-works/gondolin": {
+  "AGENTS.md": "2026-02-03"
+ },
+ "eclipsesource/jsonforms": {
+  "CLAUDE.md": "2026-01-27"
+ },
+ "ejbills/DockDoor": {
+  "AGENTS.md": "2026-04-20"
+ },
+ "elixir-nx/nx": {
+  "AGENTS.md": "2026-09-07"
+ },
+ "emacs-slack/emacs-slack": {
+  "AGENTS.md": "2026-08-14"
+ },
+ "eternityspring/shuohao-skills": {
+  "AGENTS.md": "2026-09-24"
+ },
+ "excalidraw/excalidraw": {
+  "CLAUDE.md": "2025-05-25",
+  "AGENTS.md": "2026-08-26",
+  ".github/copilot-instructions.md": "2025-05-25"
+ },
+ "executablebooks/markdown-it-py": {
+  "AGENTS.md": "2026-02-18"
+ },
+ "exoharness/exo": {
+  "AGENTS.md": "2026-05-21"
+ },
+ "f5/unovis": {
+  "CLAUDE.md": "2026-07-28",
+  "AGENTS.md": "2026-07-28",
+  ".claude": "2026-06-10"
+ },
+ "facebook/hermes": {
+  "CLAUDE.md": "2025-12-15",
+  ".claude": "2025-12-10"
+ },
+ "facebookresearch/fairchem": {
+  "CLAUDE.md": "2026-02-12"
+ },
+ "fastapi/full-stack-fastapi-template": {
+  ".claude": "2026-06-26"
+ },
+ "feast-dev/feast": {
+  "CLAUDE.md": "2025-10-07",
+  "AGENTS.md": "2026-04-01",
+  ".cursor/rules": "2026-05-03",
+  ".claude": "2026-05-03"
+ },
+ "fenrus75/powertop": {
+  ".github/copilot-instructions.md": "2026-05-05"
+ },
+ "filamentphp/demo": {
+  "CLAUDE.md": "2026-02-21",
+  ".claude": "2026-02-21"
+ },
+ "firebase/firebaseui-web": {
+  "AGENTS.md": "2026-07-06",
+  "GEMINI.md": "2025-12-02"
+ },
+ "fmaclen/hollama": {
+  ".cursor/rules": "2025-05-04"
+ },
+ "formbricks/formbricks": {
+  "CLAUDE.md": "2026-07-08",
+  "AGENTS.md": "2025-10-21",
+  ".claude": "2026-07-09"
+ },
+ "freeplane/freeplane": {
+  "CLAUDE.md": "2025-07-27",
+  "AGENTS.md": "2025-08-24"
+ },
+ "fw876/helloworld": {
+  ".github/copilot-instructions.md": "2025-09-24"
+ },
+ "ghostty-org/ghostty": {
+  "AGENTS.md": "2025-09-03"
+ },
+ "gitpod-io/gitpod": {
+  "AGENTS.md": "2026-07-20",
+  ".claude": "2025-06-13"
+ },
+ "gookit/color": {
+  ".github/copilot-instructions.md": "2025-08-22"
+ },
+ "grafana/mcp-grafana": {
+  ".claude": "2026-02-12"
+ },
+ "graphframes/graphframes": {
+  "AGENTS.md": "2026-03-01"
+ },
+ "gscept/nebula": {
+  ".cursor/rules": "2026-09-17"
+ },
+ "hacdias/webdav": {
+  ".claude": "2026-09-04"
+ },
+ "halo-dev/halo": {
+  "CLAUDE.md": "2026-05-09",
+  "AGENTS.md": "2026-05-09",
+  ".claude": "2026-05-09"
+ },
+ "haydenbleasel/ultracite": {
+  "AGENTS.md": "2026-09-19",
+  ".claude": "2026-01-09"
+ },
+ "homeassistant-ai/ha-mcp": {
+  "CLAUDE.md": "2025-09-18",
+  "AGENTS.md": "2025-09-19",
+  ".claude": "2025-11-27"
+ },
+ "huangsam/ultimate-python": {
+  "AGENTS.md": "2025-10-12"
+ },
+ "hydra-db/open-glean": {
+  "CLAUDE.md": "2026-09-17",
+  "AGENTS.md": "2026-09-17"
+ },
+ "imfing/hextra": {
+  "CLAUDE.md": "2025-08-09",
+  "AGENTS.md": "2026-02-02"
+ },
+ "iommirocks/iommi": {
+  "CLAUDE.md": "2026-04-07"
+ },
+ "ivmartel/dwv": {
+  "AGENTS.md": "2026-09-21"
+ },
+ "jaredpalmer/kev": {
+  "AGENTS.md": "2026-09-17"
+ },
+ "joewongjc/type4me": {
+  "CLAUDE.md": "2026-03-22",
+  "AGENTS.md": "2026-08-22"
+ },
+ "johnfercher/maroto": {
+  "AGENTS.md": "2026-08-18"
+ },
+ "json-everything/json-everything": {
+  "CLAUDE.md": "2026-04-02",
+  "AGENTS.md": "2026-04-02",
+  ".github/copilot-instructions.md": "2026-04-03"
+ },
+ "justrach/codedb": {
+  "CLAUDE.md": "2026-03-24",
+  "AGENTS.md": "2026-03-24",
+  ".github/copilot-instructions.md": "2026-03-24"
+ },
+ "justrach/turboAPI": {
+  "CLAUDE.md": "2026-03-19",
+  ".claude": "2026-03-20"
+ },
+ "k1LoW/mo": {
+  "CLAUDE.md": "2026-02-27",
+  ".github/copilot-instructions.md": "2026-02-27"
+ },
+ "kairos-io/kairos": {
+  "CLAUDE.md": "2026-09-17",
+  "AGENTS.md": "2026-09-17",
+  ".github/copilot-instructions.md": "2026-09-17"
+ },
+ "keepassxreboot/keepassxc": {
+  ".github/copilot-instructions.md": "2025-06-19"
+ },
+ "kenforthewin/atomic": {
+  "CLAUDE.md": "2025-11-27",
+  "AGENTS.md": "2025-11-25"
+ },
+ "kengz/SLM-Lab": {
+  "CLAUDE.md": "2026-02-02",
+  "AGENTS.md": "2026-09-20",
+  ".claude": "2026-02-02"
+ },
+ "keploy/keploy": {
+  "AGENTS.md": "2026-04-27",
+  ".claude": "2026-04-27"
+ },
+ "keybase/client": {
+  "CLAUDE.md": "2026-06-08",
+  "AGENTS.md": "2026-06-08",
+  ".github/copilot-instructions.md": "2026-06-10",
+  ".claude": "2026-06-08"
+ },
+ "koalaman/shellcheck": {
+  ".claude": "2026-05-16"
+ },
+ "kokkos/kokkos": {
+  ".github/copilot-instructions.md": "2026-01-28"
+ },
+ "kristiandupont/kanel": {
+  "AGENTS.md": "2026-04-23",
+  ".claude": "2025-12-17"
+ },
+ "kunchenguid/firstmate": {
+  "CLAUDE.md": "2026-06-12",
+  "AGENTS.md": "2026-06-12",
+  ".claude": "2026-06-12"
+ },
+ "kunchenguid/gnhf": {
+  "CLAUDE.md": "2026-04-17",
+  "AGENTS.md": "2026-04-17"
+ },
+ "kyegomez/swarms": {
+  "CLAUDE.md": "2026-05-04"
+ },
+ "lee-to/ai-factory": {
+  "AGENTS.md": "2026-02-06"
+ },
+ "leoafarias/fvm": {
+  "AGENTS.md": "2025-12-24",
+  ".github/copilot-instructions.md": "2026-03-06",
+  ".claude": "2026-03-04"
+ },
+ "liam-hq/liam": {
+  "CLAUDE.md": "2025-06-06",
+  "AGENTS.md": "2025-09-02",
+  ".claude": "2025-04-24"
+ },
+ "libsdl-org/SDL": {
+  "CLAUDE.md": "2026-04-16",
+  "AGENTS.md": "2026-04-15"
+ },
+ "lichess-org/mobile": {
+  "CLAUDE.md": "2026-01-06"
+ },
+ "likec4/likec4": {
+  "CLAUDE.md": "2026-02-21",
+  "AGENTS.md": "2026-01-11",
+  ".claude": "2026-02-21"
+ },
+ "liquidmetal-dev/flintlock": {
+  "CLAUDE.md": "2026-09-02",
+  "AGENTS.md": "2026-07-01"
+ },
+ "live-codes/livecodes": {
+  "AGENTS.md": "2026-03-28"
+ },
+ "locustio/locust": {
+  "AGENTS.md": "2026-08-20"
+ },
+ "maboloshi/github-chinese": {
+  ".github/copilot-instructions.md": "2025-10-28"
+ },
+ "makenotion/notion-mcp-server": {
+  "CLAUDE.md": "2026-01-31"
+ },
+ "makenotion/notion-sdk-js": {
+  "CLAUDE.md": "2025-11-03",
+  "AGENTS.md": "2026-08-28",
+  ".github/copilot-instructions.md": "2025-09-03"
+ },
+ "marc2332/freya": {
+  "CLAUDE.md": "2026-03-21",
+  "AGENTS.md": "2026-01-03"
+ },
+ "marcus/sidecar": {
+  "CLAUDE.md": "2025-12-26",
+  "AGENTS.md": "2025-12-26",
+  "GEMINI.md": "2025-12-31",
+  ".claude": "2026-01-08"
+ },
+ "markus-perl/ffmpeg-build-script": {
+  "AGENTS.md": "2026-08-07"
+ },
+ "matiassingers/awesome-readme": {
+  ".github/copilot-instructions.md": "2026-01-24"
+ },
+ "matthewhudson/current-device": {
+  "CLAUDE.md": "2026-02-25"
+ },
+ "mautic/mautic": {
+  "CLAUDE.md": "2025-12-04",
+  "AGENTS.md": "2025-12-04",
+  "GEMINI.md": "2025-12-04"
+ },
+ "maxmind/GeoIP2-python": {
+  "CLAUDE.md": "2025-11-06"
+ },
+ "mblode/marx": {
+  "AGENTS.md": "2026-01-06"
+ },
+ "meridianlabs-ai/inspect_petri": {
+  "CLAUDE.md": "2026-04-21",
+  "AGENTS.md": "2026-04-21"
+ },
+ "michael/editable": {
+  "AGENTS.md": "2026-08-25"
+ },
+ "microsoft/ApplicationInspector": {
+  ".github/copilot-instructions.md": "2026-02-17"
+ },
+ "microsoft/generative-ai-for-beginners": {
+  "AGENTS.md": "2025-10-03"
+ },
+ "microsoft/pict": {
+  ".github/copilot-instructions.md": "2026-01-13"
+ },
+ "mil-tokyo/webdnn": {
+  "CLAUDE.md": "2026-06-17"
+ },
+ "mk6i/open-oscar-server": {
+  "AGENTS.md": "2026-03-10"
+ },
+ "moltis-org/moltis": {
+  "CLAUDE.md": "2026-01-29",
+  "AGENTS.md": "2026-01-29",
+  ".claude": "2026-01-31"
+ },
+ "moment/moment": {
+  "AGENTS.md": "2026-08-17"
+ },
+ "mongodb/mongo": {
+  ".github/copilot-instructions.md": "2026-07-21"
+ },
+ "mongodb/mongo-cxx-driver": {
+  "CLAUDE.md": "2026-05-13",
+  "AGENTS.md": "2026-05-13"
+ },
+ "moonD4rk/HackBrowserData": {
+  "CLAUDE.md": "2025-09-02"
+ },
+ "moonbitlang/core": {
+  "AGENTS.md": "2025-06-20"
+ },
+ "moonrepo/moon": {
+  "CLAUDE.md": "2026-07-05",
+  "AGENTS.md": "2026-07-05",
+  ".claude": "2026-03-16"
+ },
+ "motiondivision/motion-vue": {
+  "CLAUDE.md": "2025-08-29"
+ },
+ "mozilla-ai/any-llm": {
+  "CLAUDE.md": "2026-01-15",
+  "AGENTS.md": "2026-01-07",
+  ".claude": "2026-08-04"
+ },
+ "mozilla/fx-private-relay": {
+  "CLAUDE.md": "2026-01-09",
+  "AGENTS.md": "2026-01-09",
+  ".claude": "2026-02-26"
+ },
+ "mozilla/sccache": {
+  "AGENTS.md": "2026-08-18"
+ },
+ "mrwadams/attackgen": {
+  "CLAUDE.md": "2025-09-16",
+  "AGENTS.md": "2026-07-21"
+ },
+ "nat-n/poethepoet": {
+  "CLAUDE.md": "2026-04-03",
+  ".claude": "2026-02-08"
+ },
+ "nats-io/nats.rs": {
+  "CLAUDE.md": "2026-03-04",
+  ".claude": "2026-02-27"
+ },
+ "nefarius/DsHidMini": {
+  ".cursor/rules": "2026-09-05"
+ },
+ "neomjs/neo": {
+  "AGENTS.md": "2025-09-20",
+  ".claude": "2026-04-18"
+ },
+ "nette/latte": {
+  "AGENTS.md": "2026-07-25"
+ },
+ "networkupstools/nut": {
+  "AGENTS.md": "2026-09-01"
+ },
+ "nextcloud/server": {
+  "CLAUDE.md": "2026-06-02",
+  "AGENTS.md": "2026-06-02"
+ },
+ "nextest-rs/nextest": {
+  "CLAUDE.md": "2025-10-21",
+  "AGENTS.md": "2025-11-10",
+  ".claude": "2025-10-18"
+ },
+ "nextstrain/ncov": {
+  ".claude": "2026-08-06"
+ },
+ "ng-alain/ng-alain": {
+  "AGENTS.md": "2026-09-01",
+  ".claude": "2026-09-01"
+ },
+ "nissl-lab/npoi": {
+  "AGENTS.md": "2026-03-24"
+ },
+ "nrslib/takt": {
+  "CLAUDE.md": "2026-01-25",
+  "AGENTS.md": "2026-01-26"
+ },
+ "ocsigen/js_of_ocaml": {
+  "CLAUDE.md": "2026-01-20"
+ },
+ "oldratlee/fucking-java-concurrency": {
+  "AGENTS.md": "2026-09-28"
+ },
+ "omdsh-dev/DSH-better-sidebar": {
+  "AGENTS.md": "2026-08-10"
+ },
+ "onetimesecret/onetimesecret": {
+  "AGENTS.md": "2026-07-25",
+  ".github/copilot-instructions.md": "2026-07-25",
+  ".claude": "2025-11-14"
+ },
+ "openfoodfacts/smooth-app": {
+  "AGENTS.md": "2026-08-22"
+ },
+ "openfootmanager/openfootmanager": {
+  "CLAUDE.md": "2026-07-23",
+  "AGENTS.md": "2026-07-23",
+  ".claude": "2026-07-23"
+ },
+ "openinterpreter/openinterpreter": {
+  "AGENTS.md": "2025-05-11"
+ },
+ "openkursar/hello-halo": {
+  "CLAUDE.md": "2026-02-23",
+  ".claude": "2026-02-07"
+ },
+ "openremote/openremote": {
+  "AGENTS.md": "2026-07-01"
+ },
+ "openstack/nova": {
+  "AGENTS.md": "2026-05-29"
+ },
+ "orbitinghail/graft": {
+  "CLAUDE.md": "2025-07-28",
+  "AGENTS.md": "2025-05-20",
+  ".claude": "2025-07-28"
+ },
+ "ory/dockertest": {
+  "CLAUDE.md": "2026-03-12"
+ },
+ "osmandapp/OsmAnd": {
+  "AGENTS.md": "2026-02-27"
+ },
+ "outray-tunnel/outray": {
+  ".github/copilot-instructions.md": "2026-01-26"
+ },
+ "ovh/debian-cis": {
+  "AGENTS.md": "2026-07-27"
+ },
+ "oxsecurity/megalinter": {
+  "CLAUDE.md": "2026-04-23",
+  ".claude": "2026-04-23"
+ },
+ "pact-foundation/pact-jvm": {
+  "CLAUDE.md": "2026-04-22",
+  ".github/copilot-instructions.md": "2026-05-18"
+ },
+ "paralleldrive/riteway": {
+  "AGENTS.md": "2026-02-25"
+ },
+ "pbakaus/impeccable": {
+  "CLAUDE.md": "2026-01-08",
+  "AGENTS.md": "2025-11-16",
+  ".claude": "2025-12-16"
+ },
+ "pdm-project/pdm": {
+  "AGENTS.md": "2025-08-20"
+ },
+ "pgmpy/pgmpy": {
+  "AGENTS.md": "2026-02-17"
+ },
+ "pingcap/tidb": {
+  "CLAUDE.md": "2025-10-10",
+  "AGENTS.md": "2025-10-10",
+  ".claude": "2026-03-12"
+ },
+ "plan-player-analytics/Plan": {
+  "AGENTS.md": "2026-08-29"
+ },
+ "pmndrs/math": {
+  "CLAUDE.md": "2026-09-07",
+  "AGENTS.md": "2026-09-07",
+  ".claude": "2026-09-03"
+ },
+ "ponylang/ponyc": {
+  "CLAUDE.md": "2026-02-26",
+  "AGENTS.md": "2026-05-22",
+  ".claude": "2026-04-25"
+ },
+ "prometheus/mysqld_exporter": {
+  "AGENTS.md": "2026-09-09"
+ },
+ "prometheus/prometheus": {
+  "CLAUDE.md": "2026-03-12",
+  "AGENTS.md": "2026-03-12"
+ },
+ "pt-plugins/PT-depiler": {
+  ".github/copilot-instructions.md": "2025-08-21"
+ },
+ "pvieito/PythonKit": {
+  "CLAUDE.md": "2026-07-08",
+  "AGENTS.md": "2025-09-11",
+  ".claude": "2026-07-08"
+ },
+ "pybuilder/pybuilder": {
+  "CLAUDE.md": "2026-03-27"
+ },
+ "pytorch/gloo": {
+  "CLAUDE.md": "2026-09-16"
+ },
+ "qmk/qmk_firmware": {
+  ".github/copilot-instructions.md": "2026-01-15"
+ },
+ "quasarframework/quasar": {
+  "CLAUDE.md": "2026-07-27",
+  "AGENTS.md": "2026-07-27",
+  ".claude": "2026-08-06"
+ },
+ "raawaa/jav-scrapy": {
+  "CLAUDE.md": "2025-11-04",
+  ".claude": "2025-11-04"
+ },
+ "readthedocs/readthedocs.org": {
+  "AGENTS.md": "2025-12-05",
+  ".claude": "2026-04-13"
+ },
+ "redis/RedisInsight": {
+  "CLAUDE.md": "2026-05-20",
+  "AGENTS.md": "2025-12-09",
+  ".github/copilot-instructions.md": "2025-11-26",
+  ".claude": "2026-05-08"
+ },
+ "redis/memtier_benchmark": {
+  "CLAUDE.md": "2026-02-23",
+  "AGENTS.md": "2026-02-23",
+  ".claude": "2026-06-16"
+ },
+ "redpanda-data/connect": {
+  "CLAUDE.md": "2025-11-04",
+  ".claude": "2025-12-04"
+ },
+ "refact0r/system24": {
+  "CLAUDE.md": "2026-06-22",
+  "AGENTS.md": "2026-06-22"
+ },
+ "remorses/kimaki": {
+  "AGENTS.md": "2025-09-02"
+ },
+ "remotion-dev/remotion": {
+  "AGENTS.md": "2025-10-21",
+  ".claude": "2025-12-24"
+ },
+ "remsky/Kokoro-FastAPI": {
+  "AGENTS.md": "2026-07-15",
+  ".claude": "2026-07-15"
+ },
+ "ricequant/rqalpha": {
+  "CLAUDE.md": "2026-03-09"
+ },
+ "robustmq/robustmq": {
+  ".claude": "2026-03-03"
+ },
+ "royshil/obs-backgroundremoval": {
+  "AGENTS.md": "2026-08-14"
+ },
+ "rqlite/rqlite": {
+  "CLAUDE.md": "2026-02-03",
+  ".github/copilot-instructions.md": "2025-06-17"
+ },
+ "rt-bishop/Look4Sat": {
+  "CLAUDE.md": "2026-06-02",
+  "AGENTS.md": "2026-06-21",
+  ".github/copilot-instructions.md": "2026-06-21"
+ },
+ "ruvnet/ruflo": {
+  "CLAUDE.md": "2025-06-10",
+  "AGENTS.md": "2026-02-07",
+  ".claude": "2025-06-13"
+ },
+ "saltstack/salt": {
+  ".github/copilot-instructions.md": "2026-06-08"
+ },
+ "sebastienros/jint": {
+  "CLAUDE.md": "2025-12-31",
+  "AGENTS.md": "2026-02-15",
+  ".github/copilot-instructions.md": "2026-08-23",
+  ".claude": "2026-08-11"
+ },
+ "sgl-project/sglang": {
+  ".claude": "2026-02-15"
+ },
+ "shinyorg/shiny": {
+  "CLAUDE.md": "2026-06-15"
+ },
+ "sirius-db/sirius": {
+  "AGENTS.md": "2026-06-04",
+  ".claude": "2026-03-04"
+ },
+ "skyllwt/AutoSci": {
+  "CLAUDE.md": "2026-04-09",
+  ".claude": "2026-04-09"
+ },
+ "slackapi/node-slack-sdk": {
+  "AGENTS.md": "2026-03-02",
+  ".claude": "2026-03-02"
+ },
+ "soirihiroka/shrimply": {
+  "AGENTS.md": "2026-08-26"
+ },
+ "source-academy/sicp": {
+  ".claude": "2026-09-21"
+ },
+ "spec-kitty/spec-kitty": {
+  "CLAUDE.md": "2025-11-10",
+  "AGENTS.md": "2025-09-20"
+ },
+ "spockframework/spock": {
+  "AGENTS.md": "2026-06-11",
+  ".claude": "2026-06-11"
+ },
+ "spring-projects/spring-integration": {
+  "CLAUDE.md": "2026-06-11",
+  "AGENTS.md": "2026-06-11"
+ },
+ "square/workflow-kotlin": {
+  "AGENTS.md": "2026-02-09",
+  ".claude": "2026-02-17"
+ },
+ "stablyai/orca": {
+  "CLAUDE.md": "2026-03-23",
+  "AGENTS.md": "2026-03-23"
+ },
+ "stagewise-io/stagewise": {
+  "CLAUDE.md": "2025-08-13",
+  "AGENTS.md": "2025-11-10"
+ },
+ "starknet-io/starknet.js": {
+  "AGENTS.md": "2026-06-15"
+ },
+ "stefanprodan/timoni": {
+  "AGENTS.md": "2026-06-30"
+ },
+ "stevencohn/OneMore": {
+  "CLAUDE.md": "2026-05-15",
+  ".claude": "2026-05-15"
+ },
+ "stoplightio/prism": {
+  "CLAUDE.md": "2026-05-12"
+ },
+ "symfony/webpack-encore": {
+  "AGENTS.md": "2026-03-11"
+ },
+ "ta4j/ta4j": {
+  "AGENTS.md": "2025-10-07"
+ },
+ "taverntesting/tavern": {
+  "AGENTS.md": "2026-08-24"
+ },
+ "tddworks/baguette": {
+  "AGENTS.md": "2026-07-30",
+  ".claude": "2026-05-04"
+ },
+ "testng-team/testng": {
+  "CLAUDE.md": "2026-07-29",
+  "AGENTS.md": "2026-07-29",
+  "GEMINI.md": "2026-09-07",
+  ".cursor/rules": "2026-09-07",
+  ".github/copilot-instructions.md": "2026-09-07"
+ },
+ "thephpleague/commonmark": {
+  "CLAUDE.md": "2025-07-20"
+ },
+ "thrasher-corp/gocryptotrader": {
+  "CLAUDE.md": "2026-03-25",
+  "AGENTS.md": "2025-08-08",
+  ".github/copilot-instructions.md": "2025-08-08"
+ },
+ "tiann/hapi": {
+  "AGENTS.md": "2025-12-16"
+ },
+ "tinyhumansai/openhuman": {
+  "CLAUDE.md": "2026-01-28",
+  "AGENTS.md": "2026-03-20",
+  ".claude": "2026-01-26"
+ },
+ "toolkit-for-ynab/toolkit-for-ynab": {
+  "CLAUDE.md": "2026-08-03",
+  ".claude": "2026-08-03"
+ },
+ "triplea-game/triplea": {
+  "CLAUDE.md": "2026-05-08",
+  "AGENTS.md": "2026-04-12"
+ },
+ "trustwallet/wallet-core": {
+  "CLAUDE.md": "2026-03-06",
+  ".claude": "2026-05-06"
+ },
+ "trycua/cua": {
+  "CLAUDE.md": "2026-08-09",
+  "AGENTS.md": "2026-07-17",
+  ".claude": "2026-08-09"
+ },
+ "tsukumijima/KonomiTV": {
+  "CLAUDE.md": "2025-12-04",
+  "AGENTS.md": "2025-09-06",
+  ".claude": "2025-12-30"
+ },
+ "ublue-os/bluefin": {
+  "AGENTS.md": "2025-11-13"
+ },
+ "umbraco/Umbraco-CMS": {
+  "CLAUDE.md": "2025-11-25",
+  ".github/copilot-instructions.md": "2025-08-20",
+  ".claude": "2026-02-03"
+ },
+ "utkuozdemir/nvidia_gpu_exporter": {
+  "CLAUDE.md": "2026-07-24",
+  "AGENTS.md": "2026-07-24",
+  "GEMINI.md": "2026-07-24",
+  ".github/copilot-instructions.md": "2026-07-24"
+ },
+ "vendurehq/vendure": {
+  "CLAUDE.md": "2026-01-15",
+  "AGENTS.md": "2026-03-17",
+  ".cursor/rules": "2025-06-04",
+  ".claude": "2025-10-20"
+ },
+ "vercel-labs/knowledge-agent-template": {
+  "AGENTS.md": "2026-01-20"
+ },
+ "vgteam/vg": {
+  "CLAUDE.md": "2026-02-14"
+ },
+ "vshulcz/deja-vu": {
+  "GEMINI.md": "2026-08-24",
+  ".claude": "2026-09-03"
+ },
+ "vuejs/devtools": {
+  "AGENTS.md": "2026-09-22"
+ },
+ "weaviate/weaviate": {
+  "CLAUDE.md": "2026-02-23",
+  ".claude": "2026-02-20"
+ },
+ "webpro-nl/knip": {
+  "CLAUDE.md": "2026-01-30",
+  "AGENTS.md": "2025-12-04",
+  ".github/copilot-instructions.md": "2025-12-23"
+ },
+ "wei/socialify": {
+  "CLAUDE.md": "2026-02-11",
+  "AGENTS.md": "2025-12-31"
+ },
+ "wincent/wincent": {
+  ".claude": "2026-02-13"
+ },
+ "wp-graphql/wp-graphql": {
+  "CLAUDE.md": "2026-02-10",
+  "AGENTS.md": "2026-09-09",
+  ".cursor/rules": "2025-03-07",
+  ".claude": "2026-06-03"
+ },
+ "xerj-org/xerj": {
+  "AGENTS.md": "2026-07-10"
+ },
+ "xiufengsun/TokenTracker": {
+  "CLAUDE.md": "2026-03-21",
+  "AGENTS.md": "2026-03-21"
+ },
+ "xming521/WeClone": {
+  ".cursor/rules": "2025-04-13"
+ },
+ "xonsh/xonsh": {
+  "CLAUDE.md": "2026-04-09"
+ },
+ "yamada-ui/yamada-ui": {
+  "CLAUDE.md": "2026-03-15",
+  "AGENTS.md": "2026-03-15",
+  ".claude": "2026-03-15"
+ },
+ "yichengchen/ATV-Bilibili-demo": {
+  "CLAUDE.md": "2026-03-08",
+  "AGENTS.md": "2026-03-08"
+ },
+ "yousifamanuel/terraink": {
+  "CLAUDE.md": "2026-03-27"
+ },
+ "zhaohongxuan/obsidian-weread-plugin": {
+  "CLAUDE.md": "2026-04-14",
+  "AGENTS.md": "2026-02-21",
+  ".github/copilot-instructions.md": "2025-11-22"
+ },
+ "ztxz16/fastllm": {
+  "AGENTS.md": "2026-03-11"
+ },
+ "zumerlab/snapdom": {
+  ".claude": "2026-07-29"
+ },
+ "0cv/herdr-mobile-relay": {
+  "AGENTS.md": "2026-07-23"
+ },
+ "0xGF/boneyard": {
+  "CLAUDE.md": "2026-04-12",
+  ".claude": "2026-04-01"
+ },
+ "3169657175/gpt-webcodex": {
+  "AGENTS.md": "2026-08-25"
+ },
+ "514-labs/dnsglobe": {
+  "CLAUDE.md": "2026-07-06",
+  "AGENTS.md": "2026-07-06"
+ },
+ "861172923/Unity-Skills": {
+  "CLAUDE.md": "2026-01-19"
+ },
+ "Ais1on/CTI-RAG": {
+  ".cursor/rules": "2025-10-17"
+ },
+ "AkashPriyadarshii/jev-curate": {
+  "CLAUDE.md": "2026-09-18",
+  "AGENTS.md": "2026-09-18"
+ },
+ "AlexsJones/llmfit": {
+  "AGENTS.md": "2026-02-15"
+ },
+ "AlibabaResearch/SparkDiffusion": {
+  "CLAUDE.md": "2026-09-22",
+  "AGENTS.md": "2026-09-22",
+  ".claude": "2026-09-22"
+ },
+ "AlmanacCode/codealmanac": {
+  "CLAUDE.md": "2026-04-16",
+  "AGENTS.md": "2026-05-14",
+  ".claude": "2026-05-07"
+ },
+ "Anemll/anemll-flash-llama.cpp": {
+  "CLAUDE.md": "2025-12-29"
+ },
+ "Archeb/peer.as": {
+  "AGENTS.md": "2026-05-31"
+ },
+ "AvivK5498/beads-web": {
+  ".claude": "2026-01-22"
+ },
+ "BLANK2077/xverif": {
+  "CLAUDE.md": "2026-07-07",
+  "AGENTS.md": "2026-07-07"
+ },
+ "CamusGIT/EvoQuant": {
+  "AGENTS.md": "2026-09-01"
+ },
+ "ChatPRD/tradclaw": {
+  "AGENTS.md": "2026-04-14"
+ },
+ "ChrisTitusTech/titus-ai": {
+  "CLAUDE.md": "2026-06-23",
+  "AGENTS.md": "2026-06-11"
+ },
+ "Colorado-Mesh/mesh-client": {
+  "CLAUDE.md": "2026-04-04",
+  "AGENTS.md": "2026-03-30"
+ },
+ "CopilotKit/shadify": {
+  ".claude": "2026-02-25"
+ },
+ "CronusL-1141/AI-company": {
+  "CLAUDE.md": "2026-03-12",
+  "AGENTS.md": "2026-09-07",
+  ".claude": "2026-03-13"
+ },
+ "DMontgomery40/bambu-printer-mcp": {
+  "CLAUDE.md": "2026-03-16",
+  "AGENTS.md": "2026-05-13",
+  ".claude": "2026-03-16"
+ },
+ "DaveMoudy/SalesforceDocGen": {
+  "CLAUDE.md": "2026-03-21",
+  ".claude": "2026-03-24"
+ },
+ "DavidLam-oss/obsidian-wechat-converter": {
+  "CLAUDE.md": "2026-02-02",
+  "AGENTS.md": "2026-03-30",
+  ".cursor/rules": "2026-07-07",
+  ".claude": "2026-02-12"
+ },
+ "Davidona/StreamVault-IPTV": {
+  "AGENTS.md": "2026-05-04"
+ },
+ "Dimillian/Evergrow": {
+  "AGENTS.md": "2026-09-05"
+ },
+ "Effect-TS/tsgo": {
+  "CLAUDE.md": "2026-03-11",
+  "AGENTS.md": "2026-03-11"
+ },
+ "FileMintApp/FileMint": {
+  "AGENTS.md": "2026-07-04"
+ },
+ "Ganso/refugiOS": {
+  "AGENTS.md": "2026-06-30"
+ },
+ "GenshinmasterJinHang/Miku-Material-Converter-Blender-to-Unity-": {
+  "AGENTS.md": "2026-08-01"
+ },
+ "Gitruck/cli": {
+  ".claude": "2026-07-02"
+ },
+ "GlassHaven/Haven": {
+  "CLAUDE.md": "2026-08-30",
+  ".claude": "2026-03-29"
+ },
+ "Gracker/SmartPerfetto": {
+  "CLAUDE.md": "2026-01-05",
+  "AGENTS.md": "2026-04-28",
+  "GEMINI.md": "2026-05-08",
+  ".cursor/rules": "2026-05-08",
+  ".github/copilot-instructions.md": "2026-05-08",
+  ".claude": "2026-01-04"
+ },
+ "GreatScott/enject": {
+  "CLAUDE.md": "2026-02-22",
+  ".claude": "2026-02-24"
+ },
+ "Hilbert-beinghappy/seektty": {
+  "AGENTS.md": "2026-08-14"
+ },
+ "INAVFlights/inav-configurator": {
+  "CLAUDE.md": "2025-12-14"
+ },
+ "ItamarZand88/CLI-Anything-WEB": {
+  "CLAUDE.md": "2026-03-26",
+  ".claude": "2026-03-26"
+ },
+ "JasonDocton/lucid-memory": {
+  "CLAUDE.md": "2026-01-30"
+ },
+ "Javis603/token-monitor": {
+  "AGENTS.md": "2026-07-05"
+ },
+ "JetBrains/kotlin-toolchain": {
+  "CLAUDE.md": "2026-03-24",
+  "AGENTS.md": "2026-03-24"
+ },
+ "JiangWay/openspec-schemas": {
+  "CLAUDE.md": "2026-05-02",
+  ".claude": "2026-05-02"
+ },
+ "Jmiao11/bili-music": {
+  "AGENTS.md": "2026-06-26"
+ },
+ "Julian-Ivanov/jarvis-voice-assistant": {
+  "CLAUDE.md": "2026-04-08",
+  ".claude": "2026-04-08"
+ },
+ "Kpa-clawbot/CoreScope": {
+  "AGENTS.md": "2026-03-23"
+ },
+ "KyaniteLabs/kinocut": {
+  "CLAUDE.md": "2026-04-05",
+  "AGENTS.md": "2026-04-20",
+  ".cursorrules": "2026-05-03",
+  ".github/copilot-instructions.md": "2026-05-03",
+  ".windsurfrules": "2026-05-03"
+ },
+ "LSTM-Kirigaya/openclaw-onebot": {
+  "AGENTS.md": "2026-03-15"
+ },
+ "LarsCowe/bmalph": {
+  "CLAUDE.md": "2026-01-24",
+  ".claude": "2026-01-23"
+ },
+ "LayerNorm/overlay-web": {
+  "AGENTS.md": "2026-03-24"
+ },
+ "LeoKemp223/NextBoard": {
+  "CLAUDE.md": "2026-04-28",
+  "AGENTS.md": "2026-04-29"
+ },
+ "Lertaro/Lertaro": {
+  "AGENTS.md": "2026-08-06"
+ },
+ "LichAmnesia/lich-skills": {
+  "CLAUDE.md": "2026-04-11"
+ },
+ "Licoy/StrokeMouse": {
+  "AGENTS.md": "2026-07-16"
+ },
+ "Litun/bloomy-linkedin-outreach": {
+  "CLAUDE.md": "2026-07-09",
+  "AGENTS.md": "2026-07-09"
+ },
+ "LotusDecoder/zhixin-companion": {
+  "CLAUDE.md": "2026-07-29",
+  "AGENTS.md": "2026-07-29"
+ },
+ "LumosLab-Innovation/OpenHunterAI": {
+  "AGENTS.md": "2026-05-25"
+ },
+ "MINT-SJTU/RoboClaw": {
+  "CLAUDE.md": "2026-03-23",
+  "AGENTS.md": "2026-04-18"
+ },
+ "Mahanaicoach/google-maps-scraper-kit": {
+  "CLAUDE.md": "2026-06-21",
+  ".claude": "2026-06-21"
+ },
+ "MapleTechLabs/maple": {
+  "CLAUDE.md": "2026-02-15",
+  "AGENTS.md": "2026-02-15"
+ },
+ "MengTo/Skills": {
+  "CLAUDE.md": "2026-02-01"
+ },
+ "MichaelMoroz/slang-splat": {
+  "AGENTS.md": "2026-02-09"
+ },
+ "MiniMax-AI/skills": {
+  ".claude": "2026-03-24"
+ },
+ "Mininglamp-OSS/octo-ios": {
+  "CLAUDE.md": "2026-05-07"
+ },
+ "Miosa-osa/BusinessOS": {
+  "AGENTS.md": "2026-09-28"
+ },
+ "Moekotori/ECHO": {
+  "AGENTS.md": "2026-08-04"
+ },
+ "MotleyAI/slayer": {
+  "CLAUDE.md": "2026-03-24"
+ },
+ "NEDONION/lobster0": {
+  "AGENTS.md": "2026-08-07",
+  ".claude": "2026-08-11"
+ },
+ "NVIDIA/NemoClaw": {
+  "CLAUDE.md": "2026-03-30",
+  "AGENTS.md": "2026-03-30",
+  ".claude": "2026-03-24"
+ },
+ "NVlabs/SimFoundry": {
+  "AGENTS.md": "2026-08-27"
+ },
+ "Netflix-Skunkworks/oci-agent": {
+  "CLAUDE.md": "2026-05-28"
+ },
+ "Newspicel/sdrmm": {
+  "AGENTS.md": "2026-08-14"
+ },
+ "NextAlone/Nagram-iOS": {
+  "CLAUDE.md": "2025-04-18",
+  "AGENTS.md": "2026-06-13"
+ },
+ "Norman-bury/research-writing-skill": {
+  "CLAUDE.md": "2026-04-29",
+  "AGENTS.md": "2026-03-19",
+  "GEMINI.md": "2026-03-19"
+ },
+ "OnlyTerp/UltraCode-Shim": {
+  "AGENTS.md": "2026-05-31"
+ },
+ "Open-BFME/Open-BFME-1": {
+  "AGENTS.md": "2026-06-28"
+ },
+ "OpenBMB/StaffDeck": {
+  "AGENTS.md": "2026-08-05",
+  ".cursor/rules": "2026-07-02"
+ },
+ "OriNachum/claude-code-guide": {
+  "CLAUDE.md": "2026-03-05",
+  ".claude": "2026-03-10"
+ },
+ "Ozz-Modding/FS25_MoistureSystem": {
+  "CLAUDE.md": "2026-06-24"
+ },
+ "PerryLink/dsh-industry-research": {
+  "AGENTS.md": "2026-08-19"
+ },
+ "PsiACE/skills": {
+  "AGENTS.md": "2026-02-02"
+ },
+ "Qiuner/Qiuner.github.io": {
+  "AGENTS.md": "2026-08-11"
+ },
+ "ReviewStage/stage-cli": {
+  "CLAUDE.md": "2026-05-02",
+  "AGENTS.md": "2026-05-02",
+  ".claude": "2026-05-02"
+ },
+ "RioArisk/codex-auth-manager": {
+  "CLAUDE.md": "2026-01-29"
+ },
+ "RoboDojo-Benchmark/RoboDojo": {
+  "CLAUDE.md": "2026-07-07"
+ },
+ "Roylyl/WinPlay": {
+  "AGENTS.md": "2026-10-01"
+ },
+ "Seeed-Studio/kicad-mcp-server": {
+  "CLAUDE.md": "2026-01-25"
+ },
+ "Simbastack-hq/framedex": {
+  "CLAUDE.md": "2026-06-15"
+ },
+ "Sma1lboy/rove": {
+  "CLAUDE.md": "2026-05-09",
+  "AGENTS.md": "2026-05-12",
+  ".claude": "2026-05-09"
+ },
+ "Spark-To-Paper-Skills/paperjury-codex": {
+  "AGENTS.md": "2026-06-04"
+ },
+ "StatIndet/quickshell": {
+  "AGENTS.md": "2026-05-07"
+ },
+ "Supercompress/Supercompress": {
+  "AGENTS.md": "2026-08-11"
+ },
+ "T8mars/comfyui-minimax-h3-prompt-enhancer-T8": {
+  "AGENTS.md": "2026-08-20"
+ },
+ "TheoLeeCJ/SemIf-OpenJev": {
+  "AGENTS.md": "2026-09-16"
+ },
+ "TidyFactor/Styler": {
+  "AGENTS.md": "2026-08-22"
+ },
+ "Uzaaft/libghostty-rs": {
+  "AGENTS.md": "2026-03-21"
+ },
+ "VelaPayments/vela-server": {
+  ".cursor/rules": "2026-06-17",
+  ".claude": "2026-06-17"
+ },
+ "VeryGoodOpenSource/vgv-ai-flutter-plugin": {
+  "CLAUDE.md": "2026-02-27",
+  "AGENTS.md": "2026-09-03"
+ },
+ "Wangnov/gpt-image-2-skill": {
+  "CLAUDE.md": "2026-06-17"
+ },
+ "ZCZHAO-1999/shakespeare-writing-studio": {
+  "AGENTS.md": "2026-07-05"
+ },
+ "ZhuofanWu/TaxiAgent": {
+  "CLAUDE.md": "2026-04-02",
+  "AGENTS.md": "2026-04-02"
+ },
+ "acai-sh/cli": {
+  "AGENTS.md": "2026-04-21"
+ },
+ "acogood/diffmode_free": {
+  "CLAUDE.md": "2026-06-01"
+ },
+ "adrianhajdin/react-native-recurrly": {
+  ".claude": "2026-03-26"
+ },
+ "agent-launch/agent-launcher": {
+  "CLAUDE.md": "2026-09-10",
+  "AGENTS.md": "2026-09-10"
+ },
+ "ahpxex/read-aware": {
+  "CLAUDE.md": "2026-03-08",
+  "AGENTS.md": "2026-03-08",
+  ".claude": "2026-07-22"
+ },
+ "andforce/Andclaw": {
+  "CLAUDE.md": "2026-03-14"
+ },
+ "andyvandaric/opencode-suites-installer": {
+  "AGENTS.md": "2026-03-31"
+ },
+ "anomalyco/terminal-control": {
+  "AGENTS.md": "2026-05-30"
+ },
+ "antirez/qwen-asr": {
+  "CLAUDE.md": "2026-02-12"
+ },
+ "arcanite24/pinyon-shift": {
+  "CLAUDE.md": "2026-09-28",
+  "AGENTS.md": "2026-08-26"
+ },
+ "autonomous-ai/openharness": {
+  "CLAUDE.md": "2026-10-05",
+  "AGENTS.md": "2026-10-02"
+ },
+ "awarexone/Agentic-Bug-Hunter": {
+  "CLAUDE.md": "2026-03-17",
+  "AGENTS.md": "2026-06-07",
+  ".claude": "2026-05-01"
+ },
+ "bezumiya/GoLiveBypass": {
+  "AGENTS.md": "2026-08-24"
+ },
+ "bradautomates/head-of-content": {
+  "CLAUDE.md": "2026-01-14",
+  ".claude": "2026-01-14"
+ },
+ "bruits/satteri": {
+  "AGENTS.md": "2026-03-28"
+ },
+ "cacheplane/b4run": {
+  "AGENTS.md": "2026-07-13"
+ },
+ "chaos-xxl/zelda-hyrule-ui": {
+  ".cursor/rules": "2026-07-08",
+  ".claude": "2026-06-12"
+ },
+ "charlie763/technical-interview-practice": {
+  "CLAUDE.md": "2026-07-22"
+ },
+ "chemark/ai-agent-book": {
+  "CLAUDE.md": "2026-07-23",
+  "AGENTS.md": "2026-07-23"
+ },
+ "chenglou/freerange": {
+  "CLAUDE.md": "2026-04-30",
+  "AGENTS.md": "2026-04-17",
+  ".claude": "2026-07-04"
+ },
+ "chrisliu298/awesome-on-policy-distillation": {
+  ".claude": "2026-06-02"
+ },
+ "clawnetes/Clawnetes": {
+  "CLAUDE.md": "2026-02-15",
+  "AGENTS.md": "2026-02-15"
+ },
+ "cocode-agency/cocode": {
+  "AGENTS.md": "2026-08-13"
+ },
+ "codeaashu/free-claude-code": {
+  "CLAUDE.md": "2026-04-25",
+  "AGENTS.md": "2026-04-25"
+ },
+ "codejunkie99/agentic-stack": {
+  ".cursor/rules": "2026-09-06"
+ },
+ "coleam00/ralph-loop-quickstart": {
+  ".claude": "2026-01-20"
+ },
+ "cortex-tms/cortex-tms": {
+  "CLAUDE.md": "2026-01-11",
+  ".github/copilot-instructions.md": "2026-01-11",
+  ".claude": "2026-02-23"
+ },
+ "crabbuild/crab": {
+  "CLAUDE.md": "2026-08-16",
+  "AGENTS.md": "2026-08-16"
+ },
+ "daha1216/dsh-adult-tension": {
+  "CLAUDE.md": "2026-09-27",
+  "AGENTS.md": "2026-09-27"
+ },
+ "daniel-p-green/nbj-write-clearly": {
+  "AGENTS.md": "2026-08-17"
+ },
+ "daveebbelaar/document-copilot": {
+  "AGENTS.md": "2026-06-05"
+ },
+ "davidbeesley/claude-chill": {
+  "CLAUDE.md": "2026-01-25"
+ },
+ "davidondrej/skills": {
+  "AGENTS.md": "2026-09-04"
+ },
+ "dawnop/dawn-lang": {
+  "CLAUDE.md": "2026-07-17"
+ },
+ "defendend/Claude-ast-index-search": {
+  "CLAUDE.md": "2026-04-18",
+  ".claude": "2026-01-20"
+ },
+ "deflating/tau": {
+  "CLAUDE.md": "2026-05-29"
+ },
+ "demonixis/oxrsys": {
+  "AGENTS.md": "2026-05-14"
+ },
+ "disler/inkwell-agent-sandboxes-and-software-factory": {
+  ".claude": "2026-08-09"
+ },
+ "djfksjd/ir-search": {
+  "AGENTS.md": "2026-07-13",
+  ".claude": "2026-07-13"
+ },
+ "dohooo/helmor": {
+  "CLAUDE.md": "2026-04-03",
+  "AGENTS.md": "2026-04-03",
+  ".claude": "2026-04-16"
+ },
+ "dososo/blcaptain-style-skill": {
+  "AGENTS.md": "2026-06-14"
+ },
+ "dreadnode/agent-lens": {
+  "CLAUDE.md": "2026-03-18",
+  ".claude": "2026-03-18"
+ },
+ "easylink-ai-open/tiri-agent": {
+  "AGENTS.md": "2026-07-02"
+ },
+ "edonadei/caliper": {
+  "CLAUDE.md": "2026-06-20",
+  "AGENTS.md": "2026-06-19",
+  ".claude": "2026-10-03"
+ },
+ "eduardolat/clancy": {
+  "AGENTS.md": "2026-01-19"
+ },
+ "ehmo/platform-design-skills": {
+  "CLAUDE.md": "2026-03-03",
+  "AGENTS.md": "2026-03-03"
+ },
+ "elixir-volt/quickbeam": {
+  "AGENTS.md": "2026-03-17"
+ },
+ "eljojo/rememory": {
+  "CLAUDE.md": "2026-02-09",
+  "AGENTS.md": "2026-02-09",
+  ".claude": "2026-02-11"
+ },
+ "eltavine/Duck-Detector-Refactoring": {
+  "AGENTS.md": "2026-09-21"
+ },
+ "epilande/ccmux": {
+  "CLAUDE.md": "2026-07-06",
+  "AGENTS.md": "2026-07-06",
+  ".claude": "2026-07-06"
+ },
+ "eric-tramel/slop-guard": {
+  "CLAUDE.md": "2026-02-22",
+  "AGENTS.md": "2026-02-22",
+  ".claude": "2026-03-23"
+ },
+ "fengsi/ufo": {
+  "CLAUDE.md": "2026-06-30",
+  "AGENTS.md": "2026-06-30",
+  "GEMINI.md": "2026-06-30",
+  ".github/copilot-instructions.md": "2026-06-30"
+ },
+ "fennaraOfficial/fennara-godot-ai": {
+  "AGENTS.md": "2026-06-18"
+ },
+ "filipi86/drogonsec": {
+  ".claude": "2026-02-25"
+ },
+ "finbarr/yolobox": {
+  "AGENTS.md": "2026-03-14"
+ },
+ "fjrevoredo/mini-diarium": {
+  "CLAUDE.md": "2026-02-16",
+  "AGENTS.md": "2026-02-16",
+  ".claude": "2026-02-14"
+ },
+ "flowtricks/stacki": {
+  "CLAUDE.md": "2026-09-30",
+  "AGENTS.md": "2026-09-14",
+  ".claude": "2026-07-30"
+ },
+ "forefy/reburp": {
+  ".claude": "2026-09-10"
+ },
+ "freddy-schuetz/n8n-claw": {
+  "CLAUDE.md": "2026-02-28"
+ },
+ "garden-co/jazz": {
+  "AGENTS.md": "2026-03-23"
+ },
+ "ghost-in-the-droid/android-agent": {
+  "CLAUDE.md": "2026-05-22"
+ },
+ "githubnext/chopin": {
+  "AGENTS.md": "2026-08-20"
+ },
+ "glanderness/BeefTV": {
+  "AGENTS.md": "2026-09-24"
+ },
+ "gorkem-bwl/atlas": {
+  "CLAUDE.md": "2026-03-29"
+ },
+ "got-feedBack/feedBack": {
+  "CLAUDE.md": "2026-06-16",
+  ".claude": "2026-06-16"
+ },
+ "grafana/ai-sdk": {
+  "AGENTS.md": "2026-07-28",
+  ".claude": "2026-07-28"
+ },
+ "greenfield-inc/Pane": {
+  "CLAUDE.md": "2026-02-19",
+  "AGENTS.md": "2026-02-19",
+  ".claude": "2026-02-27"
+ },
+ "guokaigdg/animal-island-vue": {
+  ".cursorrules": "2026-07-04"
+ },
+ "helicalinsight/open-data-pipeline": {
+  ".cursorrules": "2026-06-30"
+ },
+ "heypinchy/pinchy": {
+  "CLAUDE.md": "2026-02-18",
+  "AGENTS.md": "2026-05-05",
+  ".claude": "2026-02-18"
+ },
+ "howmp/dsh-pentest": {
+  "AGENTS.md": "2026-08-15"
+ },
+ "hristo2612/jinn": {
+  "AGENTS.md": "2026-08-06",
+  ".claude": "2026-05-19"
+ },
+ "hughfenghen/dimcut": {
+  "AGENTS.md": "2026-05-02"
+ },
+ "human-avatar/skills-for-humanity": {
+  "CLAUDE.md": "2026-05-24"
+ },
+ "human37/open-wispr": {
+  ".claude": "2026-03-14"
+ },
+ "ianlkl11234s/mini-taiwan-pulse": {
+  "CLAUDE.md": "2026-04-06",
+  "AGENTS.md": "2026-05-24",
+  ".claude": "2026-04-07"
+ },
+ "indada/repopilot": {
+  "AGENTS.md": "2026-09-18"
+ },
+ "intent-driven-dev/intent-driven-template": {
+  "AGENTS.md": "2026-05-10"
+ },
+ "intent-hq/intent": {
+  "AGENTS.md": "2026-06-17"
+ },
+ "itsfabioroma/transcribee": {
+  "CLAUDE.md": "2026-01-29"
+ },
+ "jasonlee-breadcrumb/claude-arcads": {
+  "CLAUDE.md": "2026-04-28"
+ },
+ "jayminwest/seeds": {
+  "CLAUDE.md": "2026-02-23",
+  "AGENTS.md": "2026-05-28",
+  ".claude": "2026-02-23"
+ },
+ "jdcodes1/claude-sh": {
+  "CLAUDE.md": "2026-04-06",
+  ".claude": "2026-04-06"
+ },
+ "jdilla1277/agentcad": {
+  "CLAUDE.md": "2026-06-02"
+ },
+ "jens-duttke/usage-monitor-for-claude": {
+  ".claude": "2026-02-26"
+ },
+ "jgarzik/apython": {
+  "CLAUDE.md": "2026-02-14"
+ },
+ "jianjianai/4k-image-api": {
+  "CLAUDE.md": "2026-06-19",
+  "AGENTS.md": "2026-06-19"
+ },
+ "jkdansereau/goldeneye-pc-port": {
+  "CLAUDE.md": "2026-08-29",
+  "AGENTS.md": "2026-08-21"
+ },
+ "jnMetaCode/agency-orchestrator": {
+  "CLAUDE.md": "2026-03-24"
+ },
+ "jokezc/mi_music": {
+  ".cursor/rules": "2026-01-18"
+ },
+ "jolars/basin": {
+  "CLAUDE.md": "2026-04-30",
+  "AGENTS.md": "2026-04-30"
+ },
+ "josstei/maestro-orchestrate": {
+  "GEMINI.md": "2026-02-13"
+ },
+ "jqknono/coding-plans-for-copilot": {
+  "AGENTS.md": "2026-02-27",
+  ".claude": "2026-04-07"
+ },
+ "junhoyeo/contrabass": {
+  "AGENTS.md": "2026-03-05",
+  ".claude": "2026-05-06"
+ },
+ "kasonye/ui-aesthetics-skill": {
+  ".cursor/rules": "2026-04-11",
+  ".claude": "2026-04-11"
+ },
+ "kenn-io/agentsview": {
+  "CLAUDE.md": "2026-02-19",
+  "AGENTS.md": "2026-02-27",
+  ".claude": "2026-07-04"
+ },
+ "keshav-exe/mdxcn": {
+  "AGENTS.md": "2026-08-27"
+ },
+ "kryptamine/herdr-auto-title": {
+  "CLAUDE.md": "2026-08-24",
+  "AGENTS.md": "2026-09-05",
+  ".claude": "2026-09-02"
+ },
+ "kstevica/captain-claw": {
+  ".claude": "2026-03-23"
+ },
+ "kunkundi/niuone": {
+  "AGENTS.md": "2026-07-16"
+ },
+ "kwakseongjae/oh-my-design": {
+  "CLAUDE.md": "2026-07-14",
+  "AGENTS.md": "2026-05-03",
+  ".claude": "2026-04-15"
+ },
+ "lakeops-org/queryflux": {
+  ".cursor/rules": "2026-08-12"
+ },
+ "lambda-symbolics/autolith": {
+  "AGENTS.md": "2026-07-11"
+ },
+ "laurentenhoor/devclaw": {
+  "CLAUDE.md": "2026-02-19",
+  "AGENTS.md": "2026-02-13"
+ },
+ "liaohch3/claude-tap": {
+  "AGENTS.md": "2026-02-25",
+  ".claude": "2026-02-17"
+ },
+ "lifeiteng/OmniVAD-Kit": {
+  "CLAUDE.md": "2026-03-16",
+  "AGENTS.md": "2026-03-28"
+ },
+ "lilinji/ai-infra-odyssey": {
+  "CLAUDE.md": "2026-09-28",
+  ".claude": "2026-09-28"
+ },
+ "linranff/GTA_SZ": {
+  "AGENTS.md": "2026-09-05"
+ },
+ "lllllllama/RigorPilot-Skills": {
+  "AGENTS.md": "2026-07-26",
+  ".claude": "2026-04-02"
+ },
+ "loomx-ai/steward": {
+  "AGENTS.md": "2026-07-18"
+ },
+ "lynote-ai/humanize-text-skill": {
+  "CLAUDE.md": "2026-07-03",
+  "AGENTS.md": "2026-07-03"
+ },
+ "maisem/tailmix": {
+  "CLAUDE.md": "2026-07-15",
+  "AGENTS.md": "2026-07-15"
+ },
+ "malbiruk/driftwm": {
+  "CLAUDE.md": "2026-02-22",
+  "AGENTS.md": "2026-07-27"
+ },
+ "michellzappa/headroom": {
+  "CLAUDE.md": "2026-07-29",
+  "AGENTS.md": "2026-07-29",
+  ".claude": "2026-07-29"
+ },
+ "microclaw/microclaw": {
+  "CLAUDE.md": "2026-02-07",
+  "AGENTS.md": "2026-02-07"
+ },
+ "microsoft/Build-CLI": {
+  "AGENTS.md": "2026-05-13"
+ },
+ "microsoft/CUAWright": {
+  "AGENTS.md": "2026-10-05"
+ },
+ "microsoft/waza": {
+  "AGENTS.md": "2026-02-01",
+  ".github/copilot-instructions.md": "2026-02-19"
+ },
+ "midudev/spiderman-brand-new-day": {
+  "CLAUDE.md": "2026-07-28",
+  "AGENTS.md": "2026-07-28"
+ },
+ "modelstudioai/cli": {
+  "CLAUDE.md": "2026-05-28",
+  "AGENTS.md": "2026-05-28"
+ },
+ "mosaxiv/clawlet": {
+  "AGENTS.md": "2026-02-10"
+ },
+ "mtarcure/claude-vibe-squad": {
+  "CLAUDE.md": "2026-07-28",
+  "AGENTS.md": "2026-07-28",
+  "GEMINI.md": "2026-07-28",
+  ".claude": "2026-07-28"
+ },
+ "mvanhorn/printing-press-library": {
+  "CLAUDE.md": "2026-04-18",
+  "AGENTS.md": "2026-04-18"
+ },
+ "mwakidenis/Easy-Code-Lab": {
+  "CLAUDE.md": "2026-03-26",
+  "AGENTS.md": "2026-03-26"
+ },
+ "namuh-eng/ralph-to-ralph": {
+  "CLAUDE.md": "2026-03-30",
+  "AGENTS.md": "2026-03-30",
+  ".claude": "2026-04-06"
+ },
+ "natnew/awesome-physical-ai": {
+  "CLAUDE.md": "2026-06-28",
+  "AGENTS.md": "2026-06-28"
+ },
+ "nduckmink/arkon": {
+  "CLAUDE.md": "2026-05-03",
+  ".claude": "2026-05-02"
+ },
+ "nickustinov/itsypad-macos": {
+  "CLAUDE.md": "2026-02-17"
+ },
+ "nkasco/DispatchTodoApp": {
+  "CLAUDE.md": "2026-02-06",
+  ".cursorrules": "2026-02-07",
+  ".github/copilot-instructions.md": "2026-02-07"
+ },
+ "nolenroyalty/yt-browse": {
+  "CLAUDE.md": "2026-03-03"
+ },
+ "nyanko3141592/remotion-voicevox-template": {
+  "CLAUDE.md": "2026-01-22"
+ },
+ "obijuankenobiii/inx": {
+  ".claude": "2026-07-27"
+ },
+ "omarshahine/HomeClaw": {
+  "AGENTS.md": "2026-05-27",
+  ".github/copilot-instructions.md": "2026-05-31",
+  ".claude": "2026-02-26"
+ },
+ "onvoyage-ai/voyage-geo-agent": {
+  "CLAUDE.md": "2026-02-10",
+  "AGENTS.md": "2026-02-16",
+  ".claude": "2026-02-10"
+ },
+ "open-guji/luatex-cn": {
+  "CLAUDE.md": "2026-02-20",
+  "AGENTS.md": "2026-07-30",
+  ".claude": "2026-02-20"
+ },
+ "openai/imagegencam": {
+  "AGENTS.md": "2026-06-02"
+ },
+ "oxidecomputer/skepsis": {
+  "CLAUDE.md": "2026-04-02",
+  ".claude": "2026-04-02"
+ },
+ "palamim/starboard": {
+  "CLAUDE.md": "2026-08-04"
+ },
+ "palmier-io/palmier-pro": {
+  "CLAUDE.md": "2026-04-21",
+  "AGENTS.md": "2026-04-30"
+ },
+ "paradigmxyz/centaur": {
+  "AGENTS.md": "2026-05-18"
+ },
+ "pasrom/meeting-transcriber": {
+  "CLAUDE.md": "2026-03-11",
+  "AGENTS.md": "2026-08-15",
+  ".claude": "2026-07-26"
+ },
+ "preloopdev/preloop": {
+  "AGENTS.md": "2026-07-01"
+ },
+ "prod-forge/backend": {
+  "CLAUDE.md": "2026-05-13",
+  ".claude": "2026-06-02"
+ },
+ "puremixai/pureterm": {
+  "AGENTS.md": "2026-09-16"
+ },
+ "qqxpee/antigravity2-cn": {
+  ".cursorrules": "2026-06-09"
+ },
+ "quailyquaily/aqua": {
+  "AGENTS.md": "2026-02-21"
+ },
+ "ravindu644/VirtualAP": {
+  "CLAUDE.md": "2026-09-21",
+  "AGENTS.md": "2026-09-21"
+ },
+ "razvanneculai/litecode": {
+  ".claude": "2026-04-20"
+ },
+ "rbouteiller/airplay-esp32": {
+  "CLAUDE.md": "2026-06-19"
+ },
+ "rcarmo/vibes": {
+  ".github/copilot-instructions.md": "2026-01-31"
+ },
+ "redis/agent-skills": {
+  "CLAUDE.md": "2026-01-30",
+  "AGENTS.md": "2026-01-30"
+ },
+ "repoprompt/repoprompt-ce": {
+  "CLAUDE.md": "2026-05-31",
+  "AGENTS.md": "2026-05-31"
+ },
+ "rishiskhare/parrot": {
+  "CLAUDE.md": "2026-02-22"
+ },
+ "rithkott/claude-thing": {
+  "CLAUDE.md": "2026-07-31",
+  ".claude": "2026-07-30"
+ },
+ "robzolkos/LazyPi": {
+  "AGENTS.md": "2026-04-29"
+ },
+ "rsclaw-ai/rsclaw": {
+  "CLAUDE.md": "2026-04-15",
+  "AGENTS.md": "2026-04-04",
+  ".claude": "2026-04-07"
+ },
+ "runta-dev/errand": {
+  "AGENTS.md": "2026-08-26"
+ },
+ "sbusso/claudeclaw": {
+  "CLAUDE.md": "2026-03-21",
+  ".claude": "2026-03-23"
+ },
+ "scarletkc/agents": {
+  "CLAUDE.md": "2026-07-12",
+  "AGENTS.md": "2026-07-12"
+ },
+ "scastiel/kado": {
+  "CLAUDE.md": "2026-04-17",
+  ".claude": "2026-04-17"
+ },
+ "shawnxie94/infinitum": {
+  "AGENTS.md": "2026-04-10"
+ },
+ "shlgd/SuperDictate": {
+  "AGENTS.md": "2026-07-26"
+ },
+ "skrabe/lobotomized-claude-code": {
+  "CLAUDE.md": "2026-05-05"
+ },
+ "socquique/capsule-radar": {
+  "CLAUDE.md": "2026-06-08"
+ },
+ "songloft-org/songloft-player": {
+  "CLAUDE.md": "2026-06-12",
+  "AGENTS.md": "2026-06-12"
+ },
+ "spaceamoeba-t/tapq": {
+  "CLAUDE.md": "2026-08-29"
+ },
+ "st0012/ruby-skills": {
+  "CLAUDE.md": "2026-01-16"
+ },
+ "stephengpope/thepopebot": {
+  "CLAUDE.md": "2026-02-02",
+  ".claude": "2026-02-02"
+ },
+ "straff2002/OpenGlasses": {
+  ".claude": "2026-06-27"
+ },
+ "stukennedy/irgo": {
+  "CLAUDE.md": "2026-01-20"
+ },
+ "sunblaze-ucb/vero": {
+  "CLAUDE.md": "2026-07-20",
+  "AGENTS.md": "2026-07-20",
+  ".claude": "2026-07-20"
+ },
+ "swapnildahiphale/OpenSRE": {
+  "CLAUDE.md": "2026-03-28"
+ },
+ "sysprog21/codetrial": {
+  ".claude": "2026-09-02"
+ },
+ "tetsuo-ai/voice_clone_lab": {
+  "AGENTS.md": "2026-07-18"
+ },
+ "thangnqdev/codex-oss-agent-kit": {
+  "AGENTS.md": "2026-08-13"
+ },
+ "timoncool/dub-studio": {
+  "AGENTS.md": "2026-09-30"
+ },
+ "trkbt10/indexion": {
+  "CLAUDE.md": "2026-03-14",
+  "AGENTS.md": "2026-03-02",
+  ".claude": "2026-04-11"
+ },
+ "trycompai/crm": {
+  "CLAUDE.md": "2026-07-31",
+  "AGENTS.md": "2026-07-31",
+  ".claude": "2026-07-31"
+ },
+ "ucb-bar/chia": {
+  "AGENTS.md": "2026-08-20"
+ },
+ "vercel-labs/agent-eval": {
+  "CLAUDE.md": "2026-02-03"
+ },
+ "vibe-stack/vibe3d": {
+  ".claude": "2026-08-11"
+ },
+ "voleeo/voleeo-api": {
+  "CLAUDE.md": "2026-06-10",
+  "AGENTS.md": "2026-06-10"
+ },
+ "wangmiaozero/pi-harness": {
+  "CLAUDE.md": "2026-08-13",
+  "AGENTS.md": "2026-08-13"
+ },
+ "wilson-anysphere/formula": {
+  "AGENTS.md": "2026-01-10"
+ },
+ "withlang-dev/open-jai": {
+  "AGENTS.md": "2026-05-08"
+ },
+ "worldliberty/agentpay-sdk": {
+  "CLAUDE.md": "2026-03-19"
+ },
+ "wquguru/harness-books": {
+  "CLAUDE.md": "2026-04-01",
+  "AGENTS.md": "2026-04-01",
+  ".claude": "2026-04-01"
+ },
+ "wuisabel-gif/MemWhale": {
+  "AGENTS.md": "2026-06-20"
+ },
+ "xueyouluo/fridge_tracker": {
+  "AGENTS.md": "2026-07-06"
+ },
+ "yan5xu/codexloom": {
+  "AGENTS.md": "2026-07-28"
+ },
+ "yawkat/GridFlock": {
+  "AGENTS.md": "2026-07-15"
+ },
+ "yazinsai/claude-code-remote": {
+  "CLAUDE.md": "2026-01-19",
+  "AGENTS.md": "2026-01-19"
+ },
+ "yc-software/qm": {
+  "CLAUDE.md": "2026-07-29",
+  "AGENTS.md": "2026-07-29",
+  ".claude": "2026-07-29"
+ },
+ "yc-software/recruiting": {
+  ".claude": "2026-04-02"
+ },
+ "yuanbw2025/storyforge": {
+  "CLAUDE.md": "2026-06-08",
+  "AGENTS.md": "2026-06-08",
+  ".claude": "2026-05-25"
+ },
+ "yuqie6/ProductFlow": {
+  "AGENTS.md": "2026-04-24",
+  ".claude": "2026-05-10"
+ },
+ "zhixianio/botdrop-android": {
+  "CLAUDE.md": "2026-02-09",
+  "AGENTS.md": "2026-02-09"
+ },
+ "ziguishian/xhs-visual-director-skill": {
+  "AGENTS.md": "2026-05-29"
+ },
+ "ziiyuecheng/vibe-coding-cn": {
+  "AGENTS.md": "2025-12-13"
+ },
+ "zjw-swun/old-code": {
+  ".claude": "2026-04-17"
+ },
+ "zzet/gortex": {
+  "CLAUDE.md": "2026-04-06"
+ }
+}
